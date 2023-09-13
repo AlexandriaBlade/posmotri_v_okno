@@ -125,10 +125,6 @@ ul, ol {
   margin-bottom: 30px;
 }
 
-.content__list-item {
-  background: #545050;
-}
-
 .content__list-item:last-of-type {
   margin-bottom: 0;
 }
